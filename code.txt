@@ -1,0 +1,39 @@
+data = {
+    'Year': np.random.randint(2000, 2025, 500),
+    'Disaster_Type': np.random.choice(['Flood', 'Earthquake', 'Cyclone', 'Drought'], 500),
+    'Severity_Score': np.random.uniform(1, 10, 500),
+    'Economic_Loss_Crores': np.random.uniform(10, 5000, 500),
+    'Affected_Population': np.random.randint(1000, 500000, 500),
+    'Rainfall_mm': np.random.uniform(100, 2000, 500)
+}
+df = pd.DataFrame(data)
+
+
+plt.figure(figsize=(10, 6))
+sns.countplot(data=df, x='Disaster_Type', palette='viridis')
+plt.title('Distribution of Disaster Events (2000-2025)')
+plt.xlabel('Disaster Type')
+plt.ylabel('Frequency')
+plt.savefig('viz_frequency.png')
+plt.close()
+
+
+
+corr_matrix = df[['Severity_Score', 'Economic_Loss_Crores', 'Affected_Population', 'Rainfall_mm']].corr()
+plt.figure(figsize=(8, 6))
+sns.heatmap(corr_matrix, annot=True, cmap='coolwarm', fmt=".2f")
+plt.title('Correlation Heatmap: Factors Affecting Disaster Impact')
+plt.savefig('viz_heatmap.png')
+plt.close()
+
+
+yearly_counts = df.groupby('Year')['Disaster_Type'].count().reset_index()
+plt.figure(figsize=(12, 6))
+sns.lineplot(data=yearly_counts, x='Year', y='Disaster_Type', marker='o', color='red')
+plt.title('Yearly Trend of Recorded Disasters')
+plt.ylabel('Number of Incidents')
+plt.grid(True)
+plt.savefig('viz_trend.png')
+plt.close()
+
+print("Images Generated: viz_frequency.png, viz_heatmap.png, viz_trend.png")
