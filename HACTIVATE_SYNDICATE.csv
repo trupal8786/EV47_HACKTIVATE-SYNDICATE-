@@ -1,0 +1,199 @@
+Disaster_ID,Date,Year,Disaster_Type,Event_Name,Location,Latitude,Longitude,Severity_Level,Fatalities,Affected_Population,Economic_Loss_USD_Millions,Response_Status,Data_Source
+SYN-2025-9786,26-11-2025,2025,Drought,Regional Drought Event,Region_15,30.86,85.72,Medium,14,46003,28.65,Completed,NDMA
+SYN-2025-1562,24-11-2025,2025,Tsunami,Regional Tsunami Event,Region_32,30.85,81.99,High,87,262626,239.91,Completed,NDMA
+SYN-2025-8026,06-11-2025,2025,Cyclone,Regional Cyclone Event,Region_44,24.22,80.15,Low,2,3151,0.52,Completed,WikiPedia
+SYN-2025-8297,24-10-2025,2025,Cyclone,Regional Cyclone Event,Region_41,36.2,75.33,Low,5,4502,0.65,Completed,NDMA
+SYN-2025-8126,20-10-2025,2025,Flood,Regional Flood Event,Region_36,26.28,79.7,High,174,274843,377.31,Completed,WikiPedia
+SYN-2025-4350,12-09-2025,2025,Drought,Regional Drought Event,Region_47,34.86,76.9,Low,3,1220,0.38,Completed,NDMA
+SYN-2025-1202,29-08-2025,2025,Flood,Regional Flood Event,Region_11,33.99,87.52,Low,5,3219,0.2,Completed,WikiPedia
+SYN-2025-4324,22-08-2025,2025,Flood,Regional Flood Event,Region_4,14.54,73.04,High,191,108757,103.84,Completed,WikiPedia
+SYN-2025-4604,06-08-2025,2025,Flood,Regional Flood Event,Region_13,9.59,69.19,Medium,16,24147,44.31,Completed,EM-DAT
+SYN-2025-4328,20-07-2025,2025,Flood,Regional Flood Event,Region_50,15.24,95.65,High,123,90432,69.65,Completed,WikiPedia
+SYN-2025-1500,03-07-2025,2025,Flood,Regional Flood Event,Region_19,24.33,81.88,Medium,24,44666,43.27,Completed,WikiPedia
+SYN-2025-8826,03-07-2025,2025,Flood,Regional Flood Event,Region_26,23.74,86.44,Severe,989,528491,1033.19,Completed,NDMA
+SYN-2025-8527,26-06-2025,2025,Drought,Regional Drought Event,Region_12,31.36,76.65,Severe,771,2178295,1143.23,Completed,WikiPedia
+SYN-2025-2814,18-06-2025,2025,Flood,Regional Flood Event,Region_13,24.46,76.31,Medium,34,33110,38.1,Completed,EM-DAT
+SYN-2025-6471,16-06-2025,2025,Flood,Regional Flood Event,Region_15,25.63,71.12,Medium,20,22434,46.54,Completed,WikiPedia
+SYN-2025-9661,09-06-2025,2025,Flood,Regional Flood Event,Region_28,25.84,82.79,Low,1,998,0.12,Completed,NDMA
+SYN-2025-5220,06-06-2025,2025,Flood,Regional Flood Event,Region_25,11.75,91.31,Low,3,4690,0.13,Completed,WikiPedia
+SYN-2025-3821,16-03-2025,2025,Landslide,Regional Landslide Event,Region_26,14.14,68.67,Medium,25,32344,26.15,Completed,WikiPedia
+SYN-2025-3764,15-03-2025,2025,Drought,Regional Drought Event,Region_26,20.64,89.58,Low,2,1267,0.37,Completed,EM-DAT
+SYN-2025-2472,15-02-2025,2025,Landslide,Regional Landslide Event,Region_48,17.08,76.43,Low,2,2043,0.53,Completed,WikiPedia
+SYN-2025-1136,26-01-2025,2025,Drought,Regional Drought Event,Region_19,18.68,81.75,Medium,34,34322,2.48,Completed,NDMA
+SYN-2024-8490,26-12-2024,2024,Drought,Regional Drought Event,Region_24,27.57,80.91,Medium,14,30687,16.04,Completed,WikiPedia
+SYN-2024-2152,23-12-2024,2024,Tsunami,Regional Tsunami Event,Region_16,11.11,84.18,Medium,23,7482,41.88,Completed,WikiPedia
+SYN-2024-8036,06-12-2024,2024,Flood,Regional Flood Event,Region_22,23.52,78.86,Low,5,554,0.85,Completed,WikiPedia
+SYN-2024-2676,16-11-2024,2024,Cyclone,Regional Cyclone Event,Region_2,35.25,82.26,Medium,43,19930,48.05,Completed,WikiPedia
+SYN-2024-6336,09-11-2024,2024,Drought,Regional Drought Event,Region_37,30.39,75.94,Medium,14,41890,15.3,Completed,WikiPedia
+SYN-2024-2395,03-11-2024,2024,Flood,Regional Flood Event,Region_28,9.36,72.78,Severe,602,4867363,1570.08,Completed,EM-DAT
+SYN-2024-7695,30-09-2024,2024,Flood,Regional Flood Event,Region_39,15.98,79.37,High,182,83941,451.47,Completed,EM-DAT
+SYN-2024-6351,28-09-2024,2024,Landslide,Regional Landslide Event,Region_3,32.71,81.78,Medium,41,23713,46.26,Completed,NDMA
+SYN-2024-6357,20-08-2024,2024,Flood,Regional Flood Event,Region_22,35.37,92.87,High,145,298223,70.57,Completed,NDMA
+SYN-2024-2597,07-08-2024,2024,Cyclone,Regional Cyclone Event,Region_43,32.15,79.43,Medium,14,43364,6.11,Completed,EM-DAT
+SYN-2024-3599,06-08-2024,2024,Flood,Regional Flood Event,Region_16,13.32,69.19,Medium,49,28547,43.87,Completed,WikiPedia
+IND-2024-417,30-07-2024,2024,Landslide,Wayanad Landslides,Kerala,11.6,76.1,Critical,420,10000,3625.9,Completed,Historical Records
+SYN-2024-6219,26-07-2024,2024,Flood,Regional Flood Event,Region_43,20.55,93.71,Low,1,4232,0.42,Completed,WikiPedia
+SYN-2024-2975,01-07-2024,2024,Flood,Regional Flood Event,Region_47,13.35,86.37,Low,1,3654,0.06,Completed,EM-DAT
+SYN-2024-1609,26-06-2024,2024,Flood,Regional Flood Event,Region_33,20.44,87.51,Low,3,4179,0.01,Completed,WikiPedia
+IND-2024-537,26-05-2024,2024,Cyclone,Cyclone Remal,West Bengal,21.6,89.5,Severe,84,300000,4086.91,Completed,EM-DAT
+SYN-2024-1642,12-05-2024,2024,Drought,Regional Drought Event,Region_2,23.1,85.36,Low,4,2864,0.68,Completed,NDMA
+SYN-2024-5711,01-05-2024,2024,Cyclone,Regional Cyclone Event,Region_26,30.97,94.7,Medium,31,12286,10.53,Completed,NDMA
+SYN-2024-5933,31-03-2024,2024,Drought,Regional Drought Event,Region_42,26.41,92.78,High,125,59609,299.86,Completed,NDMA
+SYN-2024-4689,30-03-2024,2024,Cyclone,Regional Cyclone Event,Region_12,36.99,75.12,High,154,281038,58.2,Completed,NDMA
+SYN-2024-1339,20-02-2024,2024,Landslide,Regional Landslide Event,Region_25,30.62,91.75,Low,3,3721,0.83,Completed,WikiPedia
+SYN-2024-3031,18-02-2024,2024,Cyclone,Regional Cyclone Event,Region_45,9.64,76.41,Low,1,4027,0.2,Completed,WikiPedia
+SYN-2024-8639,24-01-2024,2024,Flood,Regional Flood Event,Region_22,25.47,77.09,Severe,813,3569880,1917.94,Completed,NDMA
+SYN-2024-6225,15-01-2024,2024,Earthquake,Regional Earthquake Event,Region_26,13.17,93.54,Low,5,654,0.01,Completed,WikiPedia
+SYN-2023-5800,29-12-2023,2023,Flood,Regional Flood Event,Region_28,32.9,84.29,Medium,39,44903,12.43,Completed,EM-DAT
+SYN-2023-2965,16-12-2023,2023,Tsunami,Regional Tsunami Event,Region_15,12.78,78.61,Low,5,620,0.27,Completed,WikiPedia
+SYN-2023-3274,20-11-2023,2023,Landslide,Regional Landslide Event,Region_42,22.79,76.94,Low,2,1533,0.76,Completed,WikiPedia
+SYN-2023-8331,13-11-2023,2023,Cyclone,Regional Cyclone Event,Region_32,8.79,87.99,Low,4,1828,0.7,Completed,NDMA
+SYN-2023-7529,10-11-2023,2023,Cyclone,Regional Cyclone Event,Region_16,23.49,91.31,High,137,368561,83.69,Completed,WikiPedia
+SYN-2023-2936,29-10-2023,2023,Landslide,Regional Landslide Event,Region_3,27.14,91.57,High,132,266628,114.24,Completed,NDMA
+SYN-2023-7159,26-10-2023,2023,Flood,Regional Flood Event,Region_30,12.97,87.76,Medium,27,25958,33.46,Completed,NDMA
+SYN-2023-4979,18-10-2023,2023,Tsunami,Regional Tsunami Event,Region_43,27.4,69.08,Medium,46,34196,25.56,Completed,WikiPedia
+SYN-2023-3001,10-10-2023,2023,Cyclone,Regional Cyclone Event,Region_5,9.52,84.95,Low,5,3464,0.47,Completed,EM-DAT
+IND-2023-145,04-10-2023,2023,Flood,Sikkim Flash Floods,Sikkim,27.5,88.5,High,100,40000,2688,Completed,Historical Records
+SYN-2023-7096,17-09-2023,2023,Flood,Regional Flood Event,Region_3,13.57,95.63,Medium,30,49257,27.08,Completed,NDMA
+SYN-2023-5107,18-08-2023,2023,Flood,Regional Flood Event,Region_25,31.14,73.28,Low,1,1595,0.41,Completed,EM-DAT
+SYN-2023-6979,10-08-2023,2023,Flood,Regional Flood Event,Region_26,9.19,75.33,Medium,26,17031,38.97,Completed,WikiPedia
+SYN-2023-6413,29-07-2023,2023,Flood,Regional Flood Event,Region_41,10.08,82.25,Low,3,1934,0.43,Completed,EM-DAT
+SYN-2023-6356,30-06-2023,2023,Flood,Regional Flood Event,Region_22,10.38,88.42,High,141,125600,197.52,Completed,WikiPedia
+SYN-2023-8511,18-06-2023,2023,Flood,Regional Flood Event,Region_38,17.73,92.99,Low,3,1910,0.82,Completed,NDMA
+SYN-2023-3943,15-06-2023,2023,Flood,Regional Flood Event,Region_6,13.82,95.39,Medium,40,33830,36.1,Completed,NDMA
+IND-2023-430,15-06-2023,2023,Cyclone,Cyclone Biparjoy,Gujarat,23,69,High,0,100000,3455.85,Completed,Historical Records
+SYN-2023-3158,06-06-2023,2023,Flood,Regional Flood Event,Region_14,31.98,95.55,High,158,105386,397.5,Completed,NDMA
+SYN-2023-1610,03-03-2023,2023,Landslide,Regional Landslide Event,Region_24,28.05,89.92,Severe,617,1495209,540.01,Completed,WikiPedia
+SYN-2023-4020,22-02-2023,2023,Tsunami,Regional Tsunami Event,Region_10,31.94,90.4,Severe,500,4960209,819.44,Completed,EM-DAT
+SYN-2023-8893,19-02-2023,2023,Cyclone,Regional Cyclone Event,Region_16,27.62,76.71,Low,2,4465,0.59,Completed,Historical Records
+SYN-2023-6049,04-02-2023,2023,Cyclone,Regional Cyclone Event,Region_3,28.73,83.39,Low,1,4067,0.79,Completed, USGS seismic feeds
+SYN-2023-7637,26-01-2023,2023,Cold Wave,Regional Cold Wave Event,Region_30,17.21,70.72,High,159,123390,360.37,Completed, USGS seismic feeds
+SYN-2023-8697,22-01-2023,2023,Flood,Regional Flood Event,Region_6,15.77,79.99,Low,2,3879,0.96,Completed,WikiPedia
+SYN-2023-4938,16-01-2023,2023,Landslide,Regional Landslide Event,Region_31,25.17,72.48,Low,3,4251,0.6,Completed,NDMA
+SYN-2023-8949,05-01-2023,2023,Flood,Regional Flood Event,Region_13,36,68.05,High,104,212397,487.45,Completed, USGS seismic feeds
+SYN-2022-1776,01-12-2022,2022,Drought,Regional Drought Event,Region_12,28.69,96.52,Severe,918,519426,1874.01,Completed,WikiPedia
+SYN-2022-5806,26-11-2022,2022,Flood,Regional Flood Event,Region_34,30.61,76.95,Low,2,2676,0.78,Completed,NDMA
+SYN-2022-6699,22-10-2022,2022,Cyclone,Regional Cyclone Event,Region_23,15.65,79.25,Low,0,4447,0.77,Completed,NDMA
+SYN-2022-9188,18-10-2022,2022,Cyclone,Regional Cyclone Event,Region_24,23.88,70.16,Low,4,4086,0.83,Completed,WikiPedia
+SYN-2022-4702,06-10-2022,2022,Cyclone,Regional Cyclone Event,Region_14,27.52,80.99,Low,0,3345,1,Completed,EM-DAT
+SYN-2022-2993,19-09-2022,2022,Flood,Regional Flood Event,Region_5,24.33,96.78,High,161,383359,344.63,Completed,EM-DAT
+SYN-2022-4339,07-09-2022,2022,Flood,Regional Flood Event,Region_34,23.91,77.64,Low,2,4579,0.37,Completed,WikiPedia
+SYN-2022-1480,08-08-2022,2022,Flood,Regional Flood Event,Region_38,26.42,79.49,High,179,370129,106.46,Completed,WikiPedia
+SYN-2022-3587,28-07-2022,2022,Flood,Regional Flood Event,Region_29,36.12,81.35,Low,4,3457,0.51,Completed,NDMA
+SYN-2022-6026,21-07-2022,2022,Cyclone,Regional Cyclone Event,Region_28,14.96,81.37,Severe,457,936730,1047.87,Completed,WikiPedia
+SYN-2022-4025,15-07-2022,2022,Flood,Regional Flood Event,Region_50,15.2,92,High,114,455903,462.09,Completed,EM-DAT
+SYN-2022-2898,12-07-2022,2022,Flood,Regional Flood Event,Region_32,36.45,95.17,Low,0,2118,0.15,Completed,WikiPedia
+SYN-2022-6317,23-06-2022,2022,Flood,Regional Flood Event,Region_24,31.05,84.02,Medium,50,12008,17.87,Completed,EM-DAT
+SYN-2022-2238,04-04-2022,2022,Cyclone,Regional Cyclone Event,Region_21,35.92,84.5,Severe,900,2603079,1303.82,Completed,Synthetic Archive
+SYN-2022-8499,23-03-2022,2022,Cyclone,Regional Cyclone Event,Region_42,33.59,79.08,High,198,410914,336.9,Completed,NDMA
+SYN-2021-4594,14-12-2021,2021,Landslide,Regional Landslide Event,Region_30,25.99,80.35,Low,2,4937,0.07,Completed,NDMA
+SYN-2021-7572,29-09-2021,2021,Drought,Regional Drought Event,Region_37,24.73,73.62,Low,5,1890,0.24,Completed,Synthetic Archive
+SYN-2021-7899,08-09-2021,2021,Landslide,Regional Landslide Event,Region_27,14.9,78.22,High,83,71532,188.41,Completed,NDMA
+SYN-2021-4518,19-08-2021,2021,Flood,Regional Flood Event,Region_13,10.68,86.01,Medium,30,48305,33.23,Completed,Indian Flood Inventory
+SYN-2021-5694,14-08-2021,2021,Heatwave,Regional Heatwave Event,Region_17,20.41,69.04,Medium,22,17443,26.46,Completed,EM-DAT
+SYN-2021-6452,01-07-2021,2021,Flood,Regional Flood Event,Region_6,32.28,95.9,Low,2,167,0.53,Completed,Indian Flood Inventory
+SYN-2021-3024,12-04-2021,2021,Cyclone,Regional Cyclone Event,Region_12,16.86,75.98,Low,2,2830,0.97,Completed,EM-DAT
+SYN-2021-2300,11-04-2021,2021,Cyclone,Regional Cyclone Event,Region_30,34.31,93.07,Low,3,2616,0.4,Completed,EM-DAT
+SYN-2021-1251,22-03-2021,2021,Flood,Regional Flood Event,Region_17,22.8,76.92,High,127,190791,354.16,Completed,EM-DAT
+SYN-2021-9013,03-03-2021,2021,Flood,Regional Flood Event,Region_9,17.34,77.7,High,175,186437,110.44,Completed,Indian Flood Inventory
+SYN-2021-3114,15-02-2021,2021,Cold Wave,Regional Cold Wave Event,Region_37,9.2,78.12,Medium,6,12748,21.28,Completed,EM-DAT
+IND-2021-961,07-02-2021,2021,Flood,Chamoli Glacier Burst,Uttarakhand,30.4,79.7,High,80,2000,597.79,Completed,Indian Flood Inventory
+SYN-2020-9482,17-12-2020,2020,Landslide,Regional Landslide Event,Region_28,22.16,80.55,High,109,135597,309.83,Completed, USGS seismic feeds
+SYN-2020-2253,27-11-2020,2020,Cyclone,Regional Cyclone Event,Region_30,23.96,92.53,Low,3,769,0.97,Completed, USGS seismic feeds
+SYN-2020-2621,16-11-2020,2020,Cyclone,Regional Cyclone Event,Region_1,31.15,94.83,Medium,14,25565,8.02,Completed, USGS seismic feeds
+SYN-2020-9255,25-07-2020,2020,Flood,Regional Flood Event,Region_23,18.87,84.56,Medium,7,12007,37.57,Completed,Indian Flood Inventory
+SYN-2020-3116,20-06-2020,2020,Flood,Regional Flood Event,Region_40,14.31,90.84,Medium,35,9888,41.49,Completed,Indian Flood Inventory
+IND-2020-869,20-05-2020,2020,Cyclone,Cyclone Amphan,West Bengal,21.6,88.3,Critical,98,4500000,1953.61,Completed,Historical Records
+SYN-2020-4602,10-05-2020,2020,Cyclone,Regional Cyclone Event,Region_28,34.67,91.5,Medium,20,24470,42.76,Completed,NDMA
+SYN-2020-4237,14-04-2020,2020,Cyclone,Regional Cyclone Event,Region_47,22.1,92.99,Medium,46,29564,33.66,Completed,EM-DAT
+SYN-2020-7505,17-03-2020,2020,Landslide,Regional Landslide Event,Region_29,20.55,79.05,Severe,726,4078891,1871.59,Completed,NDMA
+SYN-2020-5177,19-02-2020,2020,Flood,Regional Flood Event,Region_36,21.1,78.23,Medium,41,7197,21.52,Completed,Indian Flood Inventory
+SYN-2019-9528,03-11-2019,2019,Tsunami,Regional Tsunami Event,Region_26,36.03,72.47,Medium,7,27135,3.36,Completed,EM-DAT
+SYN-2019-2180,26-09-2019,2019,Earthquake,Regional Earthquake Event,Region_50,32.47,95.27,Low,0,2576,0.11,Completed,EM-DAT
+SYN-2019-9832,21-09-2019,2019,Flood,Regional Flood Event,Region_7,18.2,80.64,Low,0,1023,0.32,Completed, USGS seismic feeds
+SYN-2019-8544,31-08-2019,2019,Cyclone,Regional Cyclone Event,Region_34,24.18,90.15,Low,0,2316,0.28,Completed,EM-DAT
+SYN-2019-6742,29-08-2019,2019,Flood,Regional Flood Event,Region_38,11.15,91.37,Medium,25,46012,13.53,Completed,Indian Flood Inventory
+SYN-2019-7970,29-08-2019,2019,Flood,Regional Flood Event,Region_48,24.8,82.21,Medium,10,21885,17.96,Completed,Indian Flood Inventory
+SYN-2019-4067,23-08-2019,2019,Tsunami,Regional Tsunami Event,Region_41,35.55,91.76,High,146,239286,166.08,Completed,NDMA
+SYN-2019-6422,20-08-2019,2019,Flood,Regional Flood Event,Region_26,21.44,83.18,Medium,13,19486,5.56,Completed,Indian Flood Inventory
+SYN-2019-2298,28-07-2019,2019,Flood,Regional Flood Event,Region_33,36.6,92.31,High,148,248050,63.07,Completed, USGS seismic feeds
+SYN-2019-9699,07-07-2019,2019,Flood,Regional Flood Event,Region_31,24.4,72.37,Severe,757,1971279,1059.44,Completed,EM-DAT
+SYN-2019-5579,17-06-2019,2019,Drought,Regional Drought Event,Region_14,33.31,71.32,Medium,25,31350,46.18,Completed,NDMA
+SYN-2019-2138,12-06-2019,2019,Drought,Regional Drought Event,Region_8,30.69,75.53,Low,1,1624,0.58,Completed,EM-DAT
+SYN-2019-6428,16-05-2019,2019,Cyclone,Regional Cyclone Event,Region_8,23.77,91.16,Low,0,3925,0.39,Completed,EM-DAT
+IND-2019-858,03-05-2019,2019,Cyclone,Cyclone Fani,Odisha,19.8,85.8,Severe,89,1600000,2685.65,Completed,Historical Records
+SYN-2019-1230,01-05-2019,2019,Cyclone,Regional Cyclone Event,Region_37,33.67,75.25,High,64,309173,484.69,Completed,EM-DAT
+SYN-2019-7566,30-04-2019,2019,Cyclone,Regional Cyclone Event,Region_21,26.73,69.01,Low,2,4374,0.42,Completed,EM-DAT
+SYN-2019-8810,02-04-2019,2019,Heatwave,Regional Heatwave Event,Region_50,34.79,82.75,Medium,40,33897,45.04,Completed,EM-DAT
+SYN-2019-1602,12-03-2019,2019,Cyclone,Regional Cyclone Event,Region_4,16.82,90.35,Medium,36,43108,16.77,Completed,EM-DAT
+SYN-2019-7306,12-03-2019,2019,Earthquake,Regional Earthquake Event,Region_13,24.19,93.25,Low,2,3051,0.87,Completed, USGS seismic feeds
+SYN-2019-1960,28-02-2019,2019,Cold Wave,Regional Cold Wave Event,Region_11,26.21,80.68,Low,0,1186,0.16,Completed,NDMA
+SYN-2019-1836,26-02-2019,2019,Drought,Regional Drought Event,Region_9,33.5,71.68,Medium,32,38050,46.48,Completed,EM-DAT
+SYN-2019-1361,14-02-2019,2019,Drought,Regional Drought Event,Region_35,27.49,95.5,Medium,47,22519,17.55,Completed,NDMA
+SYN-2019-7679,29-01-2019,2019,Earthquake,Regional Earthquake Event,Region_50,22.59,78.11,Severe,660,2630319,1503.85,Completed,EM-DAT
+SYN-2019-1757,10-01-2019,2019,Tsunami,Regional Tsunami Event,Region_50,33.43,94.71,High,136,447180,112.65,Completed, USGS seismic feeds
+SYN-2018-7533,27-11-2018,2018,Earthquake,Regional Earthquake Event,Region_39,22.77,88.72,Low,0,1634,0.62,Completed, USGS seismic feeds
+SYN-2018-8609,05-11-2018,2018,Cyclone,Regional Cyclone Event,Region_6,24.12,83.27,Low,0,3559,0.38,Completed,EM-DAT
+SYN-2018-2033,23-10-2018,2018,Cyclone,Regional Cyclone Event,Region_16,20.75,84.11,Low,1,3590,0.31,Completed,EM-DAT
+SYN-2018-7908,28-09-2018,2018,Landslide,Regional Landslide Event,Region_21,27.4,79.88,Low,5,1863,0.63,Completed,EM-DAT
+SYN-2018-7521,30-08-2018,2018,Flood,Regional Flood Event,Region_11,21.63,75.71,Low,0,1114,0.21,Completed,Indian Flood Inventory
+SYN-2018-7385,30-08-2018,2018,Flood,Regional Flood Event,Region_3,35.72,74.12,Severe,281,725449,1708.04,Completed,Indian Flood Inventory
+SYN-2018-4271,21-08-2018,2018,Flood,Regional Flood Event,Region_20,17.28,85.04,Medium,25,32278,44.09,Completed,EM-DAT
+IND-2018-562,08-08-2018,2018,Flood,Kerala Floods,Kerala,10.8,76.2,Severe,483,1000000,4936.9,Completed,Historical Records
+SYN-2018-9142,04-08-2018,2018,Flood,Regional Flood Event,Region_35,11.56,76.42,Low,5,326,0.58,Completed,EM-DAT
+SYN-2018-4162,03-08-2018,2018,Flood,Regional Flood Event,Region_28,10.58,87.73,Low,5,1254,0.59,Completed,EM-DAT
+SYN-2018-8913,08-06-2018,2018,Flood,Regional Flood Event,Region_33,21.03,92.87,Low,3,4057,0.59,Completed,EM-DAT
+SYN-2018-9416,12-03-2018,2018,Landslide,Regional Landslide Event,Region_26,10.7,79.62,Severe,376,965549,1004.36,Completed,EM-DAT
+SYN-2018-6952,08-03-2018,2018,Landslide,Regional Landslide Event,Region_22,21.66,71.91,High,103,442483,282.69,Completed,NDMA
+SYN-2018-5759,30-01-2018,2018,Heatwave,Regional Heatwave Event,Region_21,36.28,80.95,Low,3,3712,0.83,Completed,EM-DAT
+SYN-2018-6722,26-01-2018,2018,Landslide,Regional Landslide Event,Region_2,33.22,87.07,Medium,34,9225,35.78,Completed,EM-DAT
+SYN-2018-7618,13-01-2018,2018,Flood,Regional Flood Event,Region_39,30.07,68.55,Low,1,934,0.4,Completed, USGS seismic feeds
+SYN-2017-7320,12-12-2017,2017,Flood,Regional Flood Event,Region_48,30.11,73.77,Severe,602,2061851,1914.82,Completed,EM-DAT
+SYN-2017-6429,19-11-2017,2017,Cyclone,Regional Cyclone Event,Region_38,14.49,86.56,Low,0,1761,0.92,Completed,EM-DAT
+SYN-2017-7474,05-11-2017,2017,Cyclone,Regional Cyclone Event,Region_11,25.7,82.14,Low,4,1729,0.15,Completed,EM-DAT
+SYN-2017-5582,03-10-2017,2017,Cyclone,Regional Cyclone Event,Region_6,11.71,85.02,Low,4,4536,0.76,Completed, USGS seismic feeds
+SYN-2017-9275,13-09-2017,2017,Flood,Regional Flood Event,Region_43,30.25,82.17,High,52,266576,381.11,Completed, USGS seismic feeds
+SYN-2017-2015,29-08-2017,2017,Flood,Regional Flood Event,Region_8,14.77,80.03,High,179,426036,199.42,Completed,NDMA
+SYN-2017-1021,28-08-2017,2017,Flood,Regional Flood Event,Region_33,14.86,96.62,Low,5,2402,0.33,Completed,EM-DAT
+SYN-2017-7316,15-08-2017,2017,Flood,Regional Flood Event,Region_6,27.78,86.55,Medium,42,25013,42.76,Completed,EM-DAT
+SYN-2017-4710,13-08-2017,2017,Flood,Regional Flood Event,Region_34,8.94,86.28,Low,5,4001,0.25,Completed,EM-DAT
+SYN-2017-7512,06-08-2017,2017,Flood,Regional Flood Event,Region_46,9.66,89.69,Low,5,1734,0.4,Completed,NDMA
+SYN-2017-3065,13-07-2017,2017,Landslide,Regional Landslide Event,Region_49,12.63,78.57,Medium,8,38867,21.37,Completed,EM-DAT
+SYN-2017-1197,24-06-2017,2017,Flood,Regional Flood Event,Region_32,18.97,75.6,High,126,292841,472.13,Completed,EM-DAT
+SYN-2017-8456,17-06-2017,2017,Flood,Regional Flood Event,Region_27,22.79,87.86,Low,5,1633,0.15,Completed,EM-DAT
+SYN-2017-1860,07-06-2017,2017,Drought,Regional Drought Event,Region_28,21.58,81.86,Medium,25,43428,48.14,Completed,EM-DAT
+SYN-2017-9412,06-06-2017,2017,Drought,Regional Drought Event,Region_7,32.52,83.87,Low,0,146,0.1,Completed,NDMA
+SYN-2017-8742,21-05-2017,2017,Drought,Regional Drought Event,Region_5,30.09,84.72,High,143,395988,239.81,Completed,EM-DAT
+SYN-2017-3548,11-03-2017,2017,Earthquake,Regional Earthquake Event,Region_48,24.19,91.24,High,158,106890,166.84,Completed,EM-DAT
+SYN-2017-3147,25-02-2017,2017,Flood,Regional Flood Event,Region_45,36.12,88.73,Medium,26,28791,37.67,Completed,NDMA
+SYN-2017-9843,31-01-2017,2017,Drought,Regional Drought Event,Region_43,10.07,71.2,Low,4,1932,0.04,Completed,EM-DAT
+SYN-2016-9833,15-12-2016,2016,Cyclone,Regional Cyclone Event,Region_10,34.48,89.33,Low,4,1412,0.62,Completed,EM-DAT
+SYN-2016-7934,12-12-2016,2016,Flood,Regional Flood Event,Region_38,9.86,96.32,Low,5,4542,0.97,Completed,EM-DAT
+SYN-2016-7517,09-10-2016,2016,Drought,Regional Drought Event,Region_38,10.02,95.97,Low,1,3225,0.18,Completed,EM-DAT
+SYN-2016-1553,28-09-2016,2016,Flood,Regional Flood Event,Region_50,13.17,90.56,Medium,7,29755,26.72,Completed,NDMA
+SYN-2016-6345,24-09-2016,2016,Drought,Regional Drought Event,Region_1,28.67,84,Severe,767,4225449,1536.99,Completed, USGS seismic feeds
+SYN-2016-6647,28-08-2016,2016,Flood,Regional Flood Event,Region_40,23.81,79.4,Medium,45,41795,43.88,Completed, USGS seismic feeds
+SYN-2016-9325,17-08-2016,2016,Flood,Regional Flood Event,Region_37,11.91,85.05,Medium,39,33547,14.66,Completed,EM-DAT
+SYN-2016-6858,17-08-2016,2016,Earthquake,Regional Earthquake Event,Region_19,29.1,81.91,Severe,838,959004,814.22,Completed,EM-DAT
+SYN-2016-6879,02-08-2016,2016,Tsunami,Regional Tsunami Event,Region_13,11.2,93.74,Severe,615,711339,1987.43,Completed,EM-DAT
+SYN-2016-9355,07-07-2016,2016,Flood,Regional Flood Event,Region_21,18.54,83.38,High,61,139654,155.44,Completed,EM-DAT
+SYN-2016-5345,02-07-2016,2016,Flood,Regional Flood Event,Region_1,15.63,73.03,Medium,48,17477,17.52,Completed,NDMA
+SYN-2016-8810,26-05-2016,2016,Drought,Regional Drought Event,Region_31,35.04,73.51,Low,0,498,0.09,Completed,EM-DAT
+SYN-2016-8270,01-05-2016,2016,Cyclone,Regional Cyclone Event,Region_23,9.47,82.19,Low,2,125,0.37,Completed, USGS seismic feeds
+SYN-2015-7172,02-12-2015,2015,Tsunami,Regional Tsunami Event,Region_50,35.63,95.38,Medium,33,7472,44.11,Completed,EM-DAT
+IND-2015-798,01-12-2015,2015,Flood,Chennai Floods,"Chennai, Tamil Nadu",13,80.2,Severe,500,1800000,4437.88,Completed,EM-DAT
+SYN-2015-8336,18-11-2015,2015,Cyclone,Regional Cyclone Event,Region_36,29.21,92.75,Medium,18,23609,4.71,Completed,EM-DAT
+SYN-2015-3956,21-10-2015,2015,Tsunami,Regional Tsunami Event,Region_41,19.55,88.94,Severe,544,2339825,808.77,Completed,NDMA
+SYN-2015-3767,20-10-2015,2015,Cyclone,Regional Cyclone Event,Region_41,11.84,69.79,Low,0,3148,0.52,Completed,EM-DAT
+SYN-2015-9388,10-10-2015,2015,Flood,Regional Flood Event,Region_10,36.47,78.18,Severe,783,3307060,1790.4,Completed,EM-DAT
+SYN-2015-7033,23-09-2015,2015,Flood,Regional Flood Event,Region_21,21.05,96.04,High,70,217325,369.38,Completed, USGS seismic feeds
+SYN-2015-8444,22-09-2015,2015,Flood,Regional Flood Event,Region_20,22.76,69.65,Low,5,1660,0.46,Completed, USGS seismic feeds
+SYN-2015-9937,27-08-2015,2015,Flood,Regional Flood Event,Region_21,13.95,92.82,Low,3,3700,0.5,Completed,EM-DAT
+SYN-2015-8511,17-08-2015,2015,Flood,Regional Flood Event,Region_28,35.09,75.91,Low,3,824,0.1,Completed,EM-DAT
+SYN-2015-9022,15-08-2015,2015,Flood,Regional Flood Event,Region_7,29.13,90.59,Medium,20,20556,33.1,Completed,EM-DAT
+SYN-2015-8656,09-07-2015,2015,Flood,Regional Flood Event,Region_49,19.67,70.47,High,180,425762,335.95,Completed,EM-DAT
+SYN-2015-5690,04-07-2015,2015,Flood,Regional Flood Event,Region_3,12.55,95.87,Severe,290,1333981,1432.65,Completed,EM-DAT
+SYN-2015-3143,10-04-2015,2015,Cyclone,Regional Cyclone Event,Region_22,28.24,79.77,Low,2,4913,0.09,Completed,NDMA
+SYN-2015-3674,05-04-2015,2015,Cyclone,Regional Cyclone Event,Region_36,15.42,86.48,High,174,78560,149.31,Completed,EM-DAT
+SYN-2015-8660,19-03-2015,2015,Drought,Regional Drought Event,Region_36,10.87,91.98,Low,3,4640,0.81,Completed,EM-DAT
+SYN-2015-6252,20-01-2015,2015,Earthquake,Regional Earthquake Event,Region_49,10.63,86.76,Medium,32,10726,27.3,Completed,EM-DAT
